@@ -6,8 +6,8 @@
 
 | Projects                                                                                                                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------------|
-| [md5_hashing](https://github.com/achnouri/md5_hashing)                                                                                    | 
 | [Employee Management Software](https://github.com/achnouri/Employee_management_system)                                                    |
+| [Smart_Hash_Cracker](hhttps://github.com/achnouri/Smart_Hash_Cracker)                                                                                    | 
 | [AI-Computer-Vision](https://github.com/achnouri/AI-Computer-Vision))                                                                     |
 | Other projects under implementation ...                                                                                                   |
 
